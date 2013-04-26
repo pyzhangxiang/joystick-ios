@@ -19,6 +19,4 @@
     CGPoint mCenter;
 }
 
--(CGPoint)getDir;
-
 @end
