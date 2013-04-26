@@ -1,0 +1,6 @@
+*.DS_Store
+*.Thumbs.db
+*.tmproj
+*.pyc
+/Build/
+/DerivedData/
